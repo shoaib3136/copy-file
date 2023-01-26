@@ -35,12 +35,7 @@ with open("Myfile.txt","r") as fp:
 with open("Myfile2.txt","w") as fp1:
     fp1.write(x)
 ```
-## Input:
-### File1:
-![input](./copy.png)
-## Output:
-### File2:
-![output](./copyoutput.png)
+### OUTPUT:
 
 
 
